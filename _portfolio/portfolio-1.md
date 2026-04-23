@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Inhibitory Wiring Motifs"
+excerpt: "Project investigating how inhibitory wiring motifs change the learned representations of the excitatory layer <br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
